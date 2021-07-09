@@ -3,4 +3,4 @@
 
 [Github](https://github.com/pumpkinGithub/digifica)
 
-Info: It's an open-source downloader, thats it. You don't need to know literally anything else than that.
+Info: It's an open-source downloader, thats it. You don't need to know literally anything else than that. Go on.
