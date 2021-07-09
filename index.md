@@ -1,8 +1,7 @@
 <div align="center"> <img src="https://github.com/pumpkinGithub/digifica/blob/gh-pages/large_digifica_untransparent.png?raw=true" height=270 width=500 align="center"></div>
+<div align="center">Open-source downloader</div>
 
-You can use the [editor on GitHub](https://github.com/pumpkinGithub/digifica/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Github](https://github.com/pumpkinGithub/digifica)
 
 ### Markdown
 
