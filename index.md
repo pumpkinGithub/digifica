@@ -2,3 +2,5 @@
 <div align="center">Open-source downloader</div>
 
 [Github](https://github.com/pumpkinGithub/digifica)
+
+Info: It's an open-source downloader, thats it. You don't need to know literally anything else than that.
