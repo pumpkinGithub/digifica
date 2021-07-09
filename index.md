@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/pumpkinGithub/digifica/blob/gh-pages/large_digifica_untransparent.png?raw=true" height=300 width=500 align="center"></div>
+<div align="center"> <img src="https://github.com/pumpkinGithub/digifica/blob/gh-pages/large_digifica_untransparent.png?raw=true" height=250 width=500 align="center"></div>
 
 You can use the [editor on GitHub](https://github.com/pumpkinGithub/digifica/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
